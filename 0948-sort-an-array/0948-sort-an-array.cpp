@@ -1,7 +1,6 @@
 class Solution {
 public:
     void heapify(vector<int>& arr, int n, int ind) {
-        while (ind < n) {
             int largest = ind;
             int left = 2 * ind + 1;
             int right = 2 * ind + 2;
@@ -11,10 +10,7 @@ public:
                 largest = right;
             if (ind != largest) {
                 swap(arr[ind], arr[largest]);
-                ind = largest;
-            } else {
-                break;
-            }
+                heapify(arr,n,largest);
         }
     }
     vector<int> sortArray(vector<int>& nums) {
