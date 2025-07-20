@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/Prathviesh1211/Leetcode/tree/master/0443-string-compression) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prathviesh1211/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Prathviesh1211/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Prathviesh1211/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Prathviesh1211/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prathviesh1211/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Prathviesh1211/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
 |  |
