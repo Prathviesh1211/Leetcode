@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Prathviesh1211/Leetcode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Prathviesh1211/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Prathviesh1211/Leetcode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prathviesh1211/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Prathviesh1211/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Prathviesh1211/Leetcode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0933-increasing-order-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prathviesh1211/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0933-increasing-order-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prathviesh1211/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
