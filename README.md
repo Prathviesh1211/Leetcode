@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0933-increasing-order-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prathviesh1211/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Prathviesh1211/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
@@ -93,4 +94,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Prathviesh1211/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Tree
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0933-increasing-order-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0933-increasing-order-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0933-increasing-order-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0933-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
