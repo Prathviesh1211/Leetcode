@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/Prathviesh1211/Leetcode/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/Prathviesh1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0812-rotate-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prathviesh1211/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Prathviesh1211/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Prathviesh1211/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/Prathviesh1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Prathviesh1211/Leetcode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Prathviesh1211/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Prathviesh1211/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/Prathviesh1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Prathviesh1211/Leetcode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Prathviesh1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Prathviesh1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
@@ -132,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathviesh1211/Leetcode/tree/master/0001-two-sum) |
+| [0451-sort-characters-by-frequency](https://github.com/Prathviesh1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String Matching
 |  |
