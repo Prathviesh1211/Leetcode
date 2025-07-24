@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0812-rotate-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prathviesh1211/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Prathviesh1211/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
+| [1970-sorting-the-sentence](https://github.com/Prathviesh1211/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/Prathviesh1211/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Prathviesh1211/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Prathviesh1211/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prathviesh1211/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1970-sorting-the-sentence](https://github.com/Prathviesh1211/Leetcode/tree/master/1970-sorting-the-sentence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
