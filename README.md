@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Prathviesh1211/Leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Prathviesh1211/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Prathviesh1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0812-rotate-string) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/0415-add-strings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prathviesh1211/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Divide and Conquer
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/0415-add-strings) |
 | [1310-watering-plants](https://github.com/Prathviesh1211/Leetcode/tree/master/1310-watering-plants) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Stack
