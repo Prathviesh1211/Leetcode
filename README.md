@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prathviesh1211/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3330-modify-the-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/3330-modify-the-matrix) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3330-modify-the-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/3330-modify-the-matrix) |
 ## Hash Table
 |  |
 | ------- |
