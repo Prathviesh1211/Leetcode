@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/Prathviesh1211/Leetcode/tree/master/1310-watering-plants) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Prathviesh1211/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prathviesh1211/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Math
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/0415-add-strings) |
 | [1310-watering-plants](https://github.com/Prathviesh1211/Leetcode/tree/master/1310-watering-plants) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
