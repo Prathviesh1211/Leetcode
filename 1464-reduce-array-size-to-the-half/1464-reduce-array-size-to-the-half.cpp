@@ -6,19 +6,16 @@ public:
             mpp[it]++;
         }
         int ans = 0;
-        vector<int> freq;
+        priority_queue<int> pq;
         for (auto it : mpp) {
-            freq.push_back(it.second);
+            pq.push(it.second);
         }
-        sort(freq.rbegin(), freq.rend());
         int half = arr.size() / 2;
         int removed = 0;
-        for (auto it : freq) {
-            removed += it;
+        while (removed < half) {
+            removed += pq.top();
+            pq.pop();
             ans++;
-            if (removed >= half) {
-                break;
-            }
         }
         return ans;
     }
