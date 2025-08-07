@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prathviesh1211/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prathviesh1211/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3330-modify-the-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/3330-modify-the-matrix) |
 ## Math
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Prathviesh1211/Leetcode/tree/master/0733-flood-fill) |
 | [0933-increasing-order-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prathviesh1211/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prathviesh1211/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Prathviesh1211/Leetcode/tree/master/0733-flood-fill) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prathviesh1211/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3330-modify-the-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/3330-modify-the-matrix) |
 ## Hash Table
 |  |
@@ -239,8 +242,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Prathviesh1211/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Prathviesh1211/Leetcode/tree/master/0733-flood-fill) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prathviesh1211/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Prathviesh1211/Leetcode/tree/master/0695-max-area-of-island) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prathviesh1211/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
