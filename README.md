@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prathviesh1211/Leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/Prathviesh1211/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/Prathviesh1211/Leetcode/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/Prathviesh1211/Leetcode/tree/master/0506-relative-ranks) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0419-battleships-in-a-board](https://github.com/Prathviesh1211/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Prathviesh1211/Leetcode/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Prathviesh1211/Leetcode/tree/master/0695-max-area-of-island) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/Prathviesh1211/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Prathviesh1211/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Prathviesh1211/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Prathviesh1211/Leetcode/tree/master/0733-flood-fill) |
