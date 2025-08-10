@@ -1,12 +1,24 @@
 class Solution {
 public:
-    void dfs(vector<vector<char>>& board, int r, int c, int n, int m) {
-        if(r<0 || r>=n || c<0 || c>=m || board[r][c]!='O')return;
+    void bfs(vector<vector<char>>& board, int r, int c, int n, int m) {
+        queue<pair<int, int>> q;
+        q.push({r, c});
+        int dr[4] = {-1, 1, 0, 0};
+        int dc[4] = {0, 0, -1, 1};
         board[r][c] = '#';
-        dfs(board,r+1,c,n,m);
-        dfs(board,r-1,c,n,m);
-        dfs(board,r,c+1,n,m);
-        dfs(board,r,c-1,n,m);
+        while (!q.empty()) {
+            auto [row, col] = q.front();
+            q.pop();
+            for (int i = 0; i < 4; i++) {
+                int nr = dr[i] + row;
+                int nc = dc[i] + col;
+                if (nr >= 0 && nr < n && nc >= 0 && nc < m &&
+                    board[nr][nc] == 'O') {
+                    board[nr][nc] = '#';
+                    q.push({nr, nc});
+                }
+            }
+        }
     }
 
     void solve(vector<vector<char>>& board) {
@@ -17,20 +29,22 @@ public:
         vector<vector<int>> vis(n, vector<int>(m, 0));
         for (int i = 0; i < n; i++) {
             if (board[i][0] == 'O')
-                dfs(board, i, 0, n, m);
+                bfs(board, i, 0, n, m);
             if (board[i][m - 1] == 'O')
-                dfs(board, i, m - 1, n, m);
+                bfs(board, i, m - 1, n, m);
         }
         for (int j = 0; j < m; j++) {
             if (board[0][j] == 'O')
-                dfs(board, 0, j, n, m);
+                bfs(board, 0, j, n, m);
             if (board[n - 1][j] == 'O')
-                dfs(board, n - 1, j, n, m);
+                bfs(board, n - 1, j, n, m);
         }
-        for (int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(board[i][j]=='O')board[i][j]='X';
-                if(board[i][j]=='#')board[i][j]='O';
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (board[i][j] == 'O')
+                    board[i][j] = 'X';
+                if (board[i][j] == '#')
+                    board[i][j] = 'O';
             }
         }
     }
