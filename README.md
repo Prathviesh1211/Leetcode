@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Prathviesh1211/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Prathviesh1211/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Prathviesh1211/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Prathviesh1211/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0933-increasing-order-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1073-number-of-enclaves](https://github.com/Prathviesh1211/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prathviesh1211/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Prathviesh1211/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Prathviesh1211/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Prathviesh1211/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Prathviesh1211/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Prathviesh1211/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prathviesh1211/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -296,4 +298,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Prathviesh1211/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Prathviesh1211/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Prathviesh1211/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
