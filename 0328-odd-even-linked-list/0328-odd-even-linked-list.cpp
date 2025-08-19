@@ -12,26 +12,20 @@ class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
         if(!head)return NULL;
-        ListNode* temp=head;
-        vector<int> odd,even;
-        int index = 1;
-        while (temp) {
-            if (index % 2 == 1) odd.push_back(temp->val);
-            else even.push_back(temp->val);
-            temp = temp->next;
-            index++;
+        if(!head->next)return head;
+        ListNode* h1=head;
+        ListNode* h2=head->next;
+        ListNode* t1=h1;
+        ListNode* t2=h2;
+        while(h1->next && h2->next){
+            ListNode* n1=h1->next->next;
+            ListNode* n2=h2->next->next;
+            h1->next=n1;
+            h2->next=n2;
+            h1=n1;
+            h2=n2;
         }
-        ListNode* dummy=new ListNode(-1);
-        ListNode* curr=dummy;
-        for(auto it:odd){
-            curr->next=new ListNode(it);
-            curr=curr->next;
-        }
-        for(auto it:even){
-            curr->next=new ListNode(it);
-            curr=curr->next;
-        }
-        return dummy->next;
-
+        h1->next=t2;
+        return t1;
     }
 };
