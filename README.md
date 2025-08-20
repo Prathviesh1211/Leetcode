@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prathviesh1211/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prathviesh1211/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Prathviesh1211/Leetcode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/Prathviesh1211/Leetcode/tree/master/0130-surrounded-regions) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prathviesh1211/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -326,4 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Prathviesh1211/Leetcode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Prathviesh1211/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Prathviesh1211/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Prathviesh1211/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
