@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prathviesh1211/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prathviesh1211/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Prathviesh1211/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prathviesh1211/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3330-modify-the-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/3330-modify-the-matrix) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Prathviesh1211/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Prathviesh1211/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prathviesh1211/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String Matching
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prathviesh1211/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Breadth-First Search
 |  |
 | ------- |
