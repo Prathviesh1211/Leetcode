@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Prathviesh1211/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prathviesh1211/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prathviesh1211/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Prathviesh1211/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Prathviesh1211/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Prathviesh1211/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prathviesh1211/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prathviesh1211/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Breadth-First Search
