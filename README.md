@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prathviesh1211/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Prathviesh1211/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prathviesh1211/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Prathviesh1211/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3330-modify-the-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Prathviesh1211/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prathviesh1211/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Prathviesh1211/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## String Matching
 |  |
 | ------- |
