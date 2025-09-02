@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathviesh1211/Leetcode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Prathviesh1211/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Prathviesh1211/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0090-subsets-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prathviesh1211/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0794-swim-in-rising-water](https://github.com/Prathviesh1211/Leetcode/tree/master/0794-swim-in-rising-water) |
