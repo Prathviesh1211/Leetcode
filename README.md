@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Prathviesh1211/Leetcode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Prathviesh1211/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Prathviesh1211/Leetcode/tree/master/0125-valid-palindrome) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Prathviesh1211/Leetcode/tree/master/0409-longest-palindrome) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prathviesh1211/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Prathviesh1211/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0933-increasing-order-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prathviesh1211/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
