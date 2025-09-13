@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1310-watering-plants](https://github.com/Prathviesh1211/Leetcode/tree/master/1310-watering-plants) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prathviesh1211/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prathviesh1211/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prathviesh1211/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1791-richest-customer-wealth](https://github.com/Prathviesh1211/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Prathviesh1211/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prathviesh1211/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prathviesh1211/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2211-k-radius-subarray-averages](https://github.com/Prathviesh1211/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prathviesh1211/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -428,4 +430,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathviesh1211/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prathviesh1211/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
