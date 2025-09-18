@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Prathviesh1211/Leetcode/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/Prathviesh1211/Leetcode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/0415-add-strings) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Prathviesh1211/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Prathviesh1211/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prathviesh1211/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Prathviesh1211/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Prathviesh1211/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prathviesh1211/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
