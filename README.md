@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Prathviesh1211/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1310-watering-plants](https://github.com/Prathviesh1211/Leetcode/tree/master/1310-watering-plants) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Prathviesh1211/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prathviesh1211/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prathviesh1211/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prathviesh1211/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Prathviesh1211/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Prathviesh1211/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0933-increasing-order-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0933-increasing-order-search-tree) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Prathviesh1211/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prathviesh1211/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prathviesh1211/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
