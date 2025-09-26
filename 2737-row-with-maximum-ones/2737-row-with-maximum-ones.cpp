@@ -3,21 +3,20 @@ public:
     vector<int> rowAndMaximumOnes(vector<vector<int>>& mat) {
         int n = mat.size();
         int m = mat[0].size();
-        vector<int> sum(n,0);
-        int max=INT_MIN;
+        vector<int> sum(n, 0);
+        int max = -1,ind=-1;
         for (int i = 0; i < n; i++) {
+            int cnt=0;
             for (int j = 0; j < m; j++) {
-                sum[i]+=mat[i][j];
+                cnt += mat[i][j];
             }
-            if(sum[i]>max)max=sum[i];
-        }
-        for(int i=0;i<n;i++){
-            if(sum[i]==max){
-                return {i,max};
+            if (cnt > max){
+                max = cnt;
+                ind=i;
             }
         }
+        
 
-        return {0,0};
-
+        return {ind,max};
     }
 };
