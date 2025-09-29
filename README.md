@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Prathviesh1211/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Prathviesh1211/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2211-k-radius-subarray-averages](https://github.com/Prathviesh1211/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prathviesh1211/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/0415-add-strings) |
 | [1310-watering-plants](https://github.com/Prathviesh1211/Leetcode/tree/master/1310-watering-plants) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Prathviesh1211/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
@@ -481,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathviesh1211/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Prathviesh1211/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prathviesh1211/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/Prathviesh1211/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
