@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathviesh1211/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Prathviesh1211/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Prathviesh1211/Leetcode/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/Prathviesh1211/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Prathviesh1211/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Prathviesh1211/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prathviesh1211/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathviesh1211/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Prathviesh1211/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Prathviesh1211/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prathviesh1211/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
