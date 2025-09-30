@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Prathviesh1211/Leetcode/tree/master/0463-island-perimeter) |
+| [0493-reverse-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/0493-reverse-pairs) |
 | [0506-relative-ranks](https://github.com/Prathviesh1211/Leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Prathviesh1211/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Prathviesh1211/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prathviesh1211/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prathviesh1211/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Prathviesh1211/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/Prathviesh1211/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Prathviesh1211/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Prathviesh1211/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -472,10 +476,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
@@ -487,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/Prathviesh1211/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
