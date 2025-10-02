@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Prathviesh1211/Leetcode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Prathviesh1211/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Prathviesh1211/Leetcode/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/0415-add-strings) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Prathviesh1211/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Prathviesh1211/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Prathviesh1211/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathviesh1211/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Prathviesh1211/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Prathviesh1211/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -503,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/0493-reverse-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Prathviesh1211/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
