@@ -9,7 +9,6 @@ public:
         fn(arr, ans, temp, ind + 1);
         temp.push_back(arr[ind]);
         fn(arr, ans, temp, ind + 1);
-        // temp.pop_back();
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
