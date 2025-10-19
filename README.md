@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/Prathviesh1211/Leetcode/tree/master/1310-watering-plants) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Prathviesh1211/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prathviesh1211/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1539-diagonal-traverse-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prathviesh1211/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prathviesh1211/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prathviesh1211/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prathviesh1211/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1539-diagonal-traverse-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1970-sorting-the-sentence](https://github.com/Prathviesh1211/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Prathviesh1211/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Prathviesh1211/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0948-sort-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prathviesh1211/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1539-diagonal-traverse-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1955-seat-reservation-manager](https://github.com/Prathviesh1211/Leetcode/tree/master/1955-seat-reservation-manager) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Prathviesh1211/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Merge Sort
