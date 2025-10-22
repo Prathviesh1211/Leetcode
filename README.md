@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Prathviesh1211/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1310-watering-plants](https://github.com/Prathviesh1211/Leetcode/tree/master/1310-watering-plants) |
+| [1319-unique-number-of-occurrences](https://github.com/Prathviesh1211/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Prathviesh1211/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Prathviesh1211/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prathviesh1211/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Prathviesh1211/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0567-permutation-in-string) |
 | [1044-find-common-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/1044-find-common-characters) |
+| [1319-unique-number-of-occurrences](https://github.com/Prathviesh1211/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Prathviesh1211/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prathviesh1211/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
