@@ -3,10 +3,12 @@ public:
     int numIdenticalPairs(vector<int>& nums) {
         int n=nums.size();
         int cnt=0;
+        unordered_map<int,int> mpp;
         for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(nums[i]==nums[j] && i<j)cnt++;
+            if(mpp.count(nums[i])){
+                cnt+=mpp[nums[i]];
             }
+            mpp[nums[i]]++;
         }
         return cnt;
     }
