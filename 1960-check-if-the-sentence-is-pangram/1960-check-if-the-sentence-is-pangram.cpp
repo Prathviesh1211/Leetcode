@@ -1,13 +1,15 @@
 class Solution {
 public:
     bool checkIfPangram(string sentence) {
-        int hash[26]={0};
-        for(auto it:sentence){
-            hash[it-'a']++;
-        }
-        for(int i=0;i<26;i++){
-            if(hash[i]==0)return false;
-        }
-        return true;
+        vector<int> freq(26, 0);
+        int cnt=0;
+        for (char& c : sentence) {
+            int ind=c-'a';
+            if(freq[ind]==0){
+                freq[ind]++;
+                cnt++;
+            }
+       }
+       return cnt==26;
     }
 };
