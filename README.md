@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Prathviesh1211/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0935-orderly-queue](https://github.com/Prathviesh1211/Leetcode/tree/master/0935-orderly-queue) |
 | [1044-find-common-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/Prathviesh1211/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prathviesh1211/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Prathviesh1211/Leetcode/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/0415-add-strings) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Prathviesh1211/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
+| [0935-orderly-queue](https://github.com/Prathviesh1211/Leetcode/tree/master/0935-orderly-queue) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Prathviesh1211/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Prathviesh1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Prathviesh1211/Leetcode/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/Prathviesh1211/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0935-orderly-queue](https://github.com/Prathviesh1211/Leetcode/tree/master/0935-orderly-queue) |
 | [0948-sort-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Prathviesh1211/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
