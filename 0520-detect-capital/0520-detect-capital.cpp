@@ -1,24 +1,14 @@
 class Solution {
 public:
-    bool detectCapitalUse(string word) {
-        return allcap(word) || allsmall(word) || firstcap(word);   
-    }
-    bool allcap(string s){
+    bool detectCapitalUse(string s) {
+        int n=s.size();
+        int cnt=0;
         for(char c:s){
-            if(islower(c))return false;
-        }
-        return true;
-    }
-    bool allsmall(string s){
-        for(char c:s){
-            if(isupper(c))return false;
-        }
-        return true;
-    }
-    bool firstcap(string s){
-        if(!isupper(s[0]))return false;
-            if(!allsmall(s.substr(1)))return false;
-            return true;
-        
+            if(c>='A' && c<='Z')cnt++;
+        }        
+        if(cnt==n)return true;
+        if(cnt==0)return true;
+        if(cnt==1 && isupper(s[0]))return true;
+        return false;
     }
 };
