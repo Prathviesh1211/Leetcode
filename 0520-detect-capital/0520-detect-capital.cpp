@@ -17,9 +17,7 @@ public:
     }
     bool firstcap(string s){
         if(!isupper(s[0]))return false;
-            for(int i=1;i<s.size();i++){
-                if(isupper(s[i]))return false;
-            }
+            if(!allsmall(s.substr(1)))return false;
             return true;
         
     }
