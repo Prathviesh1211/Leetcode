@@ -1,10 +1,13 @@
 class Solution {
 public:
     int strStr(string s1, string s2) {
-        if(s1.empty())return -1;
-        // if(s2.empty())return 0;
-        for(int i=0;i<=s1.size()-s2.size();i++){
-            if(s1.substr(i,s2.size())==s2)return i;
+        int n=s1.size();
+        int m=s2.size();
+        for(int i=0;i<n-m+1;i++){
+            for(int j=0;j<m;j++){
+                if(s1[i+j]!=s2[j])break;
+                if(j==m-1)return i;
+            }
         }
         return -1;
     }
