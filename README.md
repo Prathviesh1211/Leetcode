@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Prathviesh1211/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Prathviesh1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0472-concatenated-words](https://github.com/Prathviesh1211/Leetcode/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/Prathviesh1211/Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0812-rotate-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Prathviesh1211/Leetcode/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/Prathviesh1211/Leetcode/tree/master/0472-concatenated-words) |
 | [0493-reverse-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/0493-reverse-pairs) |
 | [0506-relative-ranks](https://github.com/Prathviesh1211/Leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Prathviesh1211/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Prathviesh1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0472-concatenated-words](https://github.com/Prathviesh1211/Leetcode/tree/master/0472-concatenated-words) |
 | [0506-relative-ranks](https://github.com/Prathviesh1211/Leetcode/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/Prathviesh1211/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0935-orderly-queue](https://github.com/Prathviesh1211/Leetcode/tree/master/0935-orderly-queue) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Prathviesh1211/Leetcode/tree/master/0207-course-schedule) |
 | [0419-battleships-in-a-board](https://github.com/Prathviesh1211/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Prathviesh1211/Leetcode/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/Prathviesh1211/Leetcode/tree/master/0472-concatenated-words) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Prathviesh1211/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Prathviesh1211/Leetcode/tree/master/0733-flood-fill) |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathviesh1211/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Prathviesh1211/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Prathviesh1211/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0472-concatenated-words](https://github.com/Prathviesh1211/Leetcode/tree/master/0472-concatenated-words) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prathviesh1211/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2690-house-robber-iv](https://github.com/Prathviesh1211/Leetcode/tree/master/2690-house-robber-iv) |
 ## Queue
@@ -562,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prathviesh1211/Leetcode/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/Prathviesh1211/Leetcode/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
