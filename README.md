@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Prathviesh1211/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0889-buddy-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/0889-buddy-strings) |
 | [0935-orderly-queue](https://github.com/Prathviesh1211/Leetcode/tree/master/0935-orderly-queue) |
 | [1044-find-common-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/Prathviesh1211/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Prathviesh1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Prathviesh1211/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0567-permutation-in-string) |
+| [0889-buddy-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/0889-buddy-strings) |
 | [1044-find-common-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/Prathviesh1211/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Prathviesh1211/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
