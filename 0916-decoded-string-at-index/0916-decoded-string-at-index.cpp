@@ -6,8 +6,7 @@ public:
             if(isalpha(c))len++;
             else len*=(c-'0');
         }
-        for(int i=s.size()-1;i>=0;i--
-        ){
+        for(int i=s.size()-1;i>=0;i--){
             k%=len;
             char c=s[i];
             if(k==0 && isalpha(c))return string(1,c);
