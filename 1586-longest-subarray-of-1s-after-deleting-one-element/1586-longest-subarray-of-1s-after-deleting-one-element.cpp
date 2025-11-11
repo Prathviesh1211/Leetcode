@@ -11,13 +11,13 @@ public:
                 if(nums[j]==0)cnt--;
                 j++;
             }
-            if(cnt<=1){
+            // if(cnt<=1){
                 ans=max(ans,i-j);
-            }
+            // }
         }
-        if(cnt==0){
-            return n-1;
-        }
+        // if(cnt==0){
+        //     return n-1;
+        // }
         return ans==INT_MIN?0:ans;
     }
 };
