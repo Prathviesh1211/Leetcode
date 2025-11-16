@@ -9,16 +9,13 @@ public:
         for(int x:nums)ones+=x;
         if(ones<=1)return 0;
 
-        vector<int> arr(nums.begin(),nums.end());
-        arr.insert(arr.end(),nums.begin(),nums.end());
-
         int cnt=0;
         int i=0;
 
         for(int j=0;j<2*n;j++){
-            cnt+=arr[j%n];
+            cnt+=nums[j%n];
             if(j-i+1>ones){
-                cnt-=arr[i%n];
+                cnt-=nums[i%n];
                 i++;
             }
             // if(j-i+1==ones){
