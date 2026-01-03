@@ -1,24 +1,13 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string filtered;
-        for (char c : s) {
-            if (isalnum(c)) {
-                filtered += tolower(c);
-            }
+        string temp="";
+        for(char c:s){
+            if(isalnum(c))temp+=tolower(c);
         }
-
-        int left = 0;
-        int right = filtered.size() - 1;
-
-        while (left < right) {
-            if (filtered[left] != filtered[right]) {
-                return false;
-            }
-            left++;
-            right--;
-        }
-
-        return true;        
+        string res=temp;
+        reverse(temp.begin(),temp.end());
+        return res==temp;
+        
     }
 };
