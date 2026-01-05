@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/Prathviesh1211/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prathviesh1211/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Prathviesh1211/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Prathviesh1211/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Prathviesh1211/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2887-sort-vowels-in-a-string](https://github.com/Prathviesh1211/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prathviesh1211/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Prathviesh1211/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Prathviesh1211/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Prathviesh1211/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prathviesh1211/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Prathviesh1211/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/Prathviesh1211/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Prathviesh1211/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Prathviesh1211/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Prathviesh1211/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Prathviesh1211/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2690-house-robber-iv](https://github.com/Prathviesh1211/Leetcode/tree/master/2690-house-robber-iv) |
