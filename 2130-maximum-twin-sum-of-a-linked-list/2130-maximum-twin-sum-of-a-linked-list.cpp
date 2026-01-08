@@ -11,28 +11,26 @@
 class Solution {
 public:
     int pairSum(ListNode* head) {
-        int ans=0;
-        if(!head)return ans;
+        if (!head)
+            return 0;
         ListNode* slow=head;
         ListNode* fast=head;
         while(fast && fast->next){
             slow=slow->next;
             fast=fast->next->next;
         }
-        ListNode* newh=reverse(slow);
-        // slow->next=nullptr;
+        fast=reverse(slow);
+        int ans=0;
         slow=head;
-        fast=newh;
-        // int sum=0;
         while(fast){
-            int sum=slow->val + fast->val;
-            ans=max(sum,ans);
+            int sum=slow->val+fast->val;
+            ans=max(ans,sum);
             slow=slow->next;
             fast=fast->next;
         }
-        // slow->next=reverse(newh);
         return ans;
     }
+
     ListNode* reverse(ListNode* h){
         ListNode* prev=nullptr;
         ListNode* curr=h;
