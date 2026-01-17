@@ -7,8 +7,7 @@ public:
         
         //intervals smaller than new int...
         while(i<n && arr[i][1]<x[0]){
-            ans.push_back(arr[i]);
-            i++;
+            ans.push_back(arr[i++]);
         }
 
         //Merge overlapping ints.
@@ -21,8 +20,7 @@ public:
 
         //add remaining intervals..
         while(i<n){
-            ans.push_back(arr[i]);
-            i++;
+            ans.push_back(arr[i++]);
         }
         
         return ans;
