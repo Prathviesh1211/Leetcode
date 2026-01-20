@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prathviesh1211/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prathviesh1211/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Prathviesh1211/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3169-count-days-without-meetings](https://github.com/Prathviesh1211/Leetcode/tree/master/3169-count-days-without-meetings) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Prathviesh1211/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathviesh1211/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3330-modify-the-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/3330-modify-the-matrix) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prathviesh1211/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2887-sort-vowels-in-a-string](https://github.com/Prathviesh1211/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Prathviesh1211/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3169-count-days-without-meetings](https://github.com/Prathviesh1211/Leetcode/tree/master/3169-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
