@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/Prathviesh1211/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prathviesh1211/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prathviesh1211/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Prathviesh1211/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Prathviesh1211/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Prathviesh1211/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2211-k-radius-subarray-averages](https://github.com/Prathviesh1211/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prathviesh1211/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prathviesh1211/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathviesh1211/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Breadth-First Search
