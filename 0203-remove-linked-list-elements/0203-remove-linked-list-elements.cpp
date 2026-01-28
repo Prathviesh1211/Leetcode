@@ -11,19 +11,20 @@
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
-        ListNode* dummy=new ListNode(-1);
-        ListNode* prev=dummy;
-        ListNode* curr=head;
-        while(curr){
-            if(curr->val==val){
-                prev->next=curr->next;
-                curr=curr->next;
-            }else{
-                prev->next=curr;
-                prev=curr;
-                curr=curr->next;
-            }
+        if(!head)return NULL;
+        ListNode* temp=head;
+        vector<int> arr;
+        while(temp){            if(temp->val!=val)arr.push_back(temp->val);
+            temp=temp->next;
         }
-        return dummy->next;
+        if(arr.empty())return NULL;
+        ListNode* temp1=new ListNode(arr[0]);
+        head=temp1;
+        for(int i=1;i<arr.size();i++){
+            ListNode* curr=new ListNode(arr[i]);
+            temp1->next=curr;
+            temp1=curr;
+        }
+        return head;
     }
 };
