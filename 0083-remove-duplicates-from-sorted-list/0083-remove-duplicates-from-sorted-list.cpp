@@ -13,13 +13,22 @@ public:
     ListNode* deleteDuplicates(ListNode* head) {
         if(!head)return nullptr;
         ListNode* temp=head;
-        while(temp && temp->next){
-            if(temp->val==temp->next->val){
-                temp->next=temp->next->next;
-            }else{
-                temp=temp->next;
-            }
+        set<int> st;
+        while(temp){
+            st.insert(temp->val);
+            temp=temp->next;
+        }
+        if(st.empty())return nullptr;
+        vector<int> arr(st.begin(),st.end());
+        ListNode* curr=new ListNode(arr[0]);
+        head=curr;
+        for(int i=1;i<arr.size();i++){
+            ListNode* next=new ListNode(arr[i]);
+            curr->next=next;
+            curr=next;
         }
         return head;
+
+
     }
 };
