@@ -12,21 +12,23 @@ class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
         if(!head)return nullptr;
+        int n=0;
         ListNode* temp=head;
-        vector<int> arr;
         while(temp){
-            arr.push_back(temp->val);
+            n++;
             temp=temp->next;
         }
-        int n=arr.size();
-        swap(arr[k-1],arr[n-k]);
-        ListNode* curr=new ListNode(arr[0]);
-        head=curr;
-        for(int i=1;i<n;i++){
-            ListNode* next=new ListNode(arr[i]);
-            curr->next=next;
-            curr=next;
+        ListNode* a=head;
+        ListNode* b=head;
+        for(int i=1;i<k;i++){
+            a=a->next;
         }
+        for(int i=1;i<n-k+1;i++){
+            b=b->next;
+        }
+        int x=a->val;
+        a->val=b->val;
+        b->val=x;
         return head;
     }
 };
