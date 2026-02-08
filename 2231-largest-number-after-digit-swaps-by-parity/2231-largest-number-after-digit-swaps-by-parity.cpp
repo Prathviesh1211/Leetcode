@@ -7,8 +7,8 @@ public:
             if((c-'0')%2==1)odd.push_back(c);
             else even.push_back(c);
         }
-        sort(odd.rbegin(),odd.rend());
-        sort(even.rbegin(),even.rend());
+        sort(odd.begin(),odd.end(),greater<char>());
+        sort(even.begin(),even.end(),greater<char>());
         int i=0,j=0;
         for(char &c:s){
             if((c-'0')%2==0)c=even[i++];
