@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Prathviesh1211/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Prathviesh1211/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Prathviesh1211/Leetcode/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/Prathviesh1211/Leetcode/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/Prathviesh1211/Leetcode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Prathviesh1211/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0841-shortest-distance-to-a-character](https://github.com/Prathviesh1211/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Prathviesh1211/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prathviesh1211/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Prathviesh1211/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/Prathviesh1211/Leetcode/tree/master/0705-design-hashset) |
 | [0725-split-linked-list-in-parts](https://github.com/Prathviesh1211/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Prathviesh1211/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Prathviesh1211/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Prathviesh1211/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0705-design-hashset](https://github.com/Prathviesh1211/Leetcode/tree/master/0705-design-hashset) |
 | [1955-seat-reservation-manager](https://github.com/Prathviesh1211/Leetcode/tree/master/1955-seat-reservation-manager) |
 ## Data Stream
 |  |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Prathviesh1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Prathviesh1211/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0567-permutation-in-string) |
+| [0705-design-hashset](https://github.com/Prathviesh1211/Leetcode/tree/master/0705-design-hashset) |
 | [0889-buddy-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/0889-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/Prathviesh1211/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -711,4 +715,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Prathviesh1211/Leetcode/tree/master/0986-interval-list-intersections) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Prathviesh1211/Leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
