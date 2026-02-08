@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1970-sorting-the-sentence](https://github.com/Prathviesh1211/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prathviesh1211/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Prathviesh1211/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Prathviesh1211/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prathviesh1211/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2887-sort-vowels-in-a-string](https://github.com/Prathviesh1211/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-diagonal-traverse-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1955-seat-reservation-manager](https://github.com/Prathviesh1211/Leetcode/tree/master/1955-seat-reservation-manager) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Prathviesh1211/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Prathviesh1211/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Merge Sort
 |  |
 | ------- |
