@@ -1,25 +1,23 @@
 class Solution {
 public:
-    bool isHappy(int n) {
-        int slow=n,fast=n;
-        while(true){
-            slow=fn(slow);
-            fast=fn(fn(fast));
-            if(fast==1)return true;
-            if(fast==slow)return false;
-        }
-        return false;
-    }
-
-    int fn(int n){
-        int sum=0;
+    int sum(int n){
+        int ans=0;
         while(n){
             int dig=n%10;
-            dig=dig*dig;
-            sum+=dig;
+            ans+=(dig*dig);
             n/=10;
         }
-        return sum;
+        return ans;
     }
-
+    bool isHappy(int n) {
+        set<int> st;
+        while(n!=1){
+            if(st.find(n)!=st.end()){
+                return false;
+            }
+            st.insert(n);
+            n=sum(n);
+        }
+        return true;
+    }
 };
