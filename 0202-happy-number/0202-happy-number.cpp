@@ -10,14 +10,16 @@ public:
         return ans;
     }
     bool isHappy(int n) {
-        set<int> st;
-        while(n!=1){
-            if(st.find(n)!=st.end()){
-                return false;
+        int slow=n;
+        int fast=n;
+        while(true){
+            slow=sum(slow);
+            fast=sum(sum(fast));
+            if(fast==1){
+                return true;
             }
-            st.insert(n);
-            n=sum(n);
+            if(slow==fast)return false;
         }
-        return true;
+        return false;
     }
 };
