@@ -1,16 +1,22 @@
 class Solution {
 public:
-    vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
-        unordered_map<int,int> mpp;
-        for(auto i:nums1){
-            mpp[i]++;
-        }
+    vector<int> intersect(vector<int>& a, vector<int>& b) {
+    
         vector<int> ans;
-        for(int i:nums2){
-            if(mpp.find(i)!=mpp.end()){
-                ans.push_back(i);
-                mpp[i]--;
-                if(mpp[i]==0)mpp.erase(i);
+        sort(a.begin(),a.end());
+        sort(b.begin(),b.end());
+        int i=0,j=0;
+        int n=a.size();
+        int m=b.size();
+        while(i<n && j<m){
+            if(a[i]==b[j]){
+                ans.push_back(a[i]);
+                i++;
+                j++;
+            }else if(a[i]>b[j]){
+                j++;
+            }else{
+                i++;
             }
         }
         return ans;
