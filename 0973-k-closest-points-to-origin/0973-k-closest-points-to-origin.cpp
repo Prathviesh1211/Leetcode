@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
 
-        // min heap (distance, point)
         priority_queue<
             pair<int, vector<int>>,
             vector<pair<int, vector<int>>>,
