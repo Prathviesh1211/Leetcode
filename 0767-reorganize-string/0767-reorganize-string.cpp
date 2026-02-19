@@ -20,7 +20,7 @@ public:
                 res+=q.second;
                 q.first--;
                 if(q.first>0)pq.push(q);
-                pq.push(p);
+                pq.push(p);6
             }
         }
         return res;
