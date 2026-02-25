@@ -1,20 +1,19 @@
 class Solution {
 public:
-    int fn(vector<int>& arr,int x,int s,int e){
-        if(s>e)return -1;
-        int mid=s+(e-s)/2;
-        if(arr[mid]==x)return mid;
-        if(arr[s]<=arr[mid]){
-            if(x>=arr[s] && x<arr[mid]){
-                return fn(arr,x,s,mid-1);
-            }else return fn(arr,x,mid+1,e);
-        }else { 
-            if(x>arr[mid] &&x<=arr[e]){
-                return fn(arr,x,mid+1,e);
-            }else return fn(arr,x,s,mid-1);
+    int search(vector<int>& nums, int x) {
+        int n=nums.size();
+        int s=0,e=n-1;
+        while(s<=e){
+            int m=s+(e-s)/2;
+            if(x==nums[m])return m;
+            if(nums[m]<=nums[e]){
+                if(x>nums[m] && x<=nums[e])s=m+1;
+                else e=m-1;
+            }else{
+                if(x<nums[m] && x>=nums[s])e=m-1;
+                else s=m+1;
+            }
         }
-    }
-    int search(vector<int>& nums, int target) {
-        return fn(nums,target,0,nums.size()-1);
+        return -1;
     }
 };
