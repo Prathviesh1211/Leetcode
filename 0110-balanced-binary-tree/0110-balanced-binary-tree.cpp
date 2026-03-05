@@ -11,17 +11,19 @@
  */
 class Solution {
 public:
-    int fn(TreeNode* root){
-        if(!root)return 0;
-        int lh=fn(root->left);
-        int rh=fn(root->right);
-        if(lh==-1 || rh==-1)return -1;
-        if(abs(lh-rh)>1)return -1;
+    int fn(TreeNode* n,bool& valid){
+        if(!n)return 0;
+        if(!valid)return 0;
+        int lh=fn(n->left,valid);
+        int rh=fn(n->right,valid);
+        if(abs(lh-rh)>1)valid=false;
         return 1+max(lh,rh);
     }
 
     bool isBalanced(TreeNode* root) {
-        return fn(root)!=-1;
-
+        if(!root)return true;
+        bool valid=true;
+        fn(root,valid);
+        return valid==1;
     }
 };
