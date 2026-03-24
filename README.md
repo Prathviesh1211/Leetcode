@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Prathviesh1211/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Prathviesh1211/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prathviesh1211/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Prathviesh1211/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1310-watering-plants](https://github.com/Prathviesh1211/Leetcode/tree/master/1310-watering-plants) |
 | [1319-unique-number-of-occurrences](https://github.com/Prathviesh1211/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Prathviesh1211/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0933-increasing-order-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prathviesh1211/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prathviesh1211/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Prathviesh1211/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prathviesh1211/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prathviesh1211/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
