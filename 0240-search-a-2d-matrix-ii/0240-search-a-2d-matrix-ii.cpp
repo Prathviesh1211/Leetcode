@@ -1,22 +1,15 @@
 class Solution {
 public:
-    bool bs(const vector<int>& arr, int k) {
-        int s = 0, e = arr.size() - 1;
-        while (s <= e) {
-            int mid = s + (e - s) / 2;
-            if (arr[mid] == k) return true;
-            else if (arr[mid] > k) e = mid - 1;
-            else s = mid + 1;
+    bool searchMatrix(vector<vector<int>>& mat, int x) {
+        int n=mat.size();
+        int m=mat[0].size();
+        int r=0,c=m-1;
+        while(r<n && c>=0){
+            if(mat[r][c]==x)return true;
+            else if(mat[r][c]>x)c--;
+            else r++;
         }
         return false;
     }
 
-    bool searchMatrix(vector<vector<int>>& mat, int target) {
-        int n = mat.size();
-        int m = mat[0].size();
-        for (int i = 0; i < n; i++) {
-            if (bs(mat[i], target)) return true;
-        }
-        return false;
-    }
 };
