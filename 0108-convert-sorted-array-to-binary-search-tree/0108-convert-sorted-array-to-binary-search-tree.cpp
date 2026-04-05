@@ -22,7 +22,8 @@ public:
         return root;
     }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
-        if(nums.empty())return nullptr;
-        return fn(nums,0,nums.size()-1);
+        if (nums.empty())
+            return nullptr;
+        return fn(nums, 0, nums.size() - 1);
     }
 };
