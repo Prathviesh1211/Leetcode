@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prathviesh1211/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2460-apply-operations-to-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prathviesh1211/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Prathviesh1211/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Prathviesh1211/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prathviesh1211/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Prathviesh1211/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Prathviesh1211/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Prathviesh1211/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Prathviesh1211/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prathviesh1211/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Prathviesh1211/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
