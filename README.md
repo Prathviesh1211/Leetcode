@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prathviesh1211/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2047-find-a-peak-element-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Prathviesh1211/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2105-watering-plants-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prathviesh1211/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Prathviesh1211/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Prathviesh1211/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2105-watering-plants-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/Prathviesh1211/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prathviesh1211/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0898-transpose-matrix) |
 | [1310-watering-plants](https://github.com/Prathviesh1211/Leetcode/tree/master/1310-watering-plants) |
+| [2105-watering-plants-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prathviesh1211/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
