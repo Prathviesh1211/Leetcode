@@ -1,20 +1,21 @@
 class Solution {
 public:
     string reverseVowels(string s) {
-       unordered_set<char> st={'a','e','i','o','u','A','E','I','O','U'};
-       int left=0,right=s.size()-1;
-       while(left<right){
-            // if()
-            if(st.find(s[left])==st.end())
-                left++;
-            else if(st.find(s[right])==st.end())
-                right--;
-            // if((st.find((s[right])!=st.end()) && (st.find(s[left])!=st.end(){
-            else{
-                swap(s[left],s[right]);
-                left++,right--;
+        int n=s.size();
+        int i=0,j=n-1;
+        while(i<j){
+            if(!vowel(s[i]))i++;
+            if(!vowel(s[j]))j--;
+            if(vowel(s[i]) && vowel(s[j])){
+                swap(s[i],s[j]);
+                i++,j--;
             }
-       } 
-       return s;
+        }
+        return s;
+    }
+
+    bool vowel(char c){
+        c=tolower(c);
+        return c=='a' || c=='e' || c=='i' || c=='o' || c=='u';
     }
 };
