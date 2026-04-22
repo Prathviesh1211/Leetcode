@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prathviesh1211/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prathviesh1211/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1754-largest-merge-of-two-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Prathviesh1211/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Prathviesh1211/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Prathviesh1211/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Prathviesh1211/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prathviesh1211/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Prathviesh1211/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1754-largest-merge-of-two-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2105-watering-plants-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/Prathviesh1211/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0767-reorganize-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prathviesh1211/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1754-largest-merge-of-two-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Prathviesh1211/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Prathviesh1211/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Prathviesh1211/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
