@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Prathviesh1211/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prathviesh1211/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1748-sum-of-unique-elements](https://github.com/Prathviesh1211/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prathviesh1211/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Prathviesh1211/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Prathviesh1211/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Prathviesh1211/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Prathviesh1211/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Prathviesh1211/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Prathviesh1211/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Prathviesh1211/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/Prathviesh1211/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Prathviesh1211/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Prathviesh1211/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Prathviesh1211/Leetcode/tree/master/1848-sum-of-unique-elements) |
