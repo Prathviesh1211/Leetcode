@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Prathviesh1211/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0889-buddy-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/0889-buddy-strings) |
 | [0916-decoded-string-at-index](https://github.com/Prathviesh1211/Leetcode/tree/master/0916-decoded-string-at-index) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prathviesh1211/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0935-orderly-queue](https://github.com/Prathviesh1211/Leetcode/tree/master/0935-orderly-queue) |
 | [1044-find-common-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/1044-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Prathviesh1211/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathviesh1211/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Prathviesh1211/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0916-decoded-string-at-index](https://github.com/Prathviesh1211/Leetcode/tree/master/0916-decoded-string-at-index) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prathviesh1211/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0933-increasing-order-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prathviesh1211/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prathviesh1211/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Prathviesh1211/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prathviesh1211/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prathviesh1211/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1754-largest-merge-of-two-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
