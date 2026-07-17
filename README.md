@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Prathviesh1211/Leetcode/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/Prathviesh1211/Leetcode/tree/master/0472-concatenated-words) |
 | [0493-reverse-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Prathviesh1211/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Prathviesh1211/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prathviesh1211/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathviesh1211/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathviesh1211/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Prathviesh1211/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Prathviesh1211/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0916-decoded-string-at-index](https://github.com/Prathviesh1211/Leetcode/tree/master/0916-decoded-string-at-index) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prathviesh1211/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0933-increasing-order-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0933-increasing-order-search-tree) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Prathviesh1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Prathviesh1211/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Prathviesh1211/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Prathviesh1211/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -906,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prathviesh1211/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/Prathviesh1211/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prathviesh1211/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Interactive
 |  |
