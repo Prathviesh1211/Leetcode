@@ -3,20 +3,19 @@ public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
         int n=nums1.size();
         int m=nums2.size();
-        vector<int> ans(n);
-        for(int i=0;i<n;i++){
-            int ele=-1,x=nums1[i];
-            for(int j=0;j<m;j++){
-                if(nums2[j]==x){
-                    for(int k=j+1;k<m;k++){
-                        if(nums2[k]>x){
-                            ele=nums2[k];
-                            break;
-                        }
-                    }
-                }
+        stack<int> st;
+        vector<int> ans;
+        unordered_map<int,int> mp;
+        for(int i=m-1;i>=0;i--){
+            while(!st.empty() && st.top()<=nums2[i]){
+                st.pop();
             }
-            ans[i]=ele;
+            if(!st.empty())mp[nums2[i]]=st.top();
+            else mp[nums2[i]]=-1;
+            st.push(nums2[i]);
+        }
+        for(int i:nums1){
+            ans.push_back(mp[i]);
         }
         return ans;
     }
