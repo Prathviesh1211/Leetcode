@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Prathviesh1211/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Prathviesh1211/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Prathviesh1211/Leetcode/tree/master/0901-online-stock-span) |
 | [0916-decoded-string-at-index](https://github.com/Prathviesh1211/Leetcode/tree/master/0916-decoded-string-at-index) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prathviesh1211/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0933-increasing-order-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0933-increasing-order-search-tree) |
@@ -471,11 +472,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Prathviesh1211/Leetcode/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Prathviesh1211/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0705-design-hashset](https://github.com/Prathviesh1211/Leetcode/tree/master/0705-design-hashset) |
+| [0901-online-stock-span](https://github.com/Prathviesh1211/Leetcode/tree/master/0901-online-stock-span) |
 | [1955-seat-reservation-manager](https://github.com/Prathviesh1211/Leetcode/tree/master/1955-seat-reservation-manager) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Prathviesh1211/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/Prathviesh1211/Leetcode/tree/master/0901-online-stock-span) |
 ## Tree
 |  |
 | ------- |
@@ -916,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Prathviesh1211/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Prathviesh1211/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Prathviesh1211/Leetcode/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prathviesh1211/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Interactive
 |  |
