@@ -13,33 +13,40 @@ class Solution {
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(!root)return nullptr;
-        if(root->val>key)root->left=deleteNode(root->left,key);
-        else if(root->val<key)root->right=deleteNode(root->right,key);
-        else{
+        if(root->val<key){
+            root->right=deleteNode(root->right,key);
+        }else if(root->val>key){
+            root->left=deleteNode(root->left,key);
+        }else{
+            //No children -> Leaf Node
             if(!root->left && !root->right){
                 delete root;
                 return nullptr;
             }
+            // 1 Child 
             if(!root->left){
-                TreeNode* temp=root->right;
-                delete root;
-                return temp;
+              TreeNode* temp=root->right;
+              delete root;
+              return temp;  
             }
             if(!root->right){
-                TreeNode* temp=root->left;
-                delete root;
-                return temp;
+              TreeNode* temp=root->left;
+              delete root;
+              return temp;  
             }
-            TreeNode* mini=findMin(root->right);
+            //2 Children
+            TreeNode* mini=getMin(root->right);
             root->val=mini->val;
             root->right=deleteNode(root->right,mini->val);
-        }        
+        }
         return root;
     }
-    TreeNode* findMin(TreeNode* n){
+
+    TreeNode* getMin(TreeNode* n){
         while(n->left){
             n=n->left;
         }
         return n;
     }
+
 };
