@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prathviesh1211/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Prathviesh1211/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prathviesh1211/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Prathviesh1211/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1073-number-of-enclaves](https://github.com/Prathviesh1211/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Prathviesh1211/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prathviesh1211/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Prathviesh1211/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prathviesh1211/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prathviesh1211/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prathviesh1211/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prathviesh1211/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Prathviesh1211/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prathviesh1211/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Prathviesh1211/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prathviesh1211/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Matrix
