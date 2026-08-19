@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Prathviesh1211/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/Prathviesh1211/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Prathviesh1211/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Prathviesh1211/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Prathviesh1211/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Prathviesh1211/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Prathviesh1211/Leetcode/tree/master/0705-design-hashset) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Prathviesh1211/Leetcode/tree/master/0472-concatenated-words) |
 | [0506-relative-ranks](https://github.com/Prathviesh1211/Leetcode/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/Prathviesh1211/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Prathviesh1211/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Prathviesh1211/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Prathviesh1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Prathviesh1211/Leetcode/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/Prathviesh1211/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/Prathviesh1211/Leetcode/tree/master/0744-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0767-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/Prathviesh1211/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Prathviesh1211/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prathviesh1211/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Prathviesh1211/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/Prathviesh1211/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/Prathviesh1211/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathviesh1211/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Prathviesh1211/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prathviesh1211/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Prathviesh1211/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Prathviesh1211/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/Prathviesh1211/Leetcode/tree/master/0704-binary-search) |
@@ -778,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Prathviesh1211/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Prathviesh1211/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Prathviesh1211/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Prathviesh1211/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prathviesh1211/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prathviesh1211/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
