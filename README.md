@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Prathviesh1211/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/Prathviesh1211/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Prathviesh1211/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2109-adding-spaces-to-a-string](https://github.com/Prathviesh1211/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Prathviesh1211/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prathviesh1211/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prathviesh1211/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Prathviesh1211/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2105-watering-plants-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/2105-watering-plants-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/Prathviesh1211/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prathviesh1211/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/Prathviesh1211/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Prathviesh1211/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2105-watering-plants-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/2105-watering-plants-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/Prathviesh1211/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Prathviesh1211/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prathviesh1211/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Prathviesh1211/Leetcode/tree/master/0898-transpose-matrix) |
 | [1310-watering-plants](https://github.com/Prathviesh1211/Leetcode/tree/master/1310-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/Prathviesh1211/Leetcode/tree/master/2105-watering-plants-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/Prathviesh1211/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathviesh1211/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prathviesh1211/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prathviesh1211/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
