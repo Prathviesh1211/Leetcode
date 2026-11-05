@@ -3,11 +3,13 @@ public:
     int searchInsert(vector<int>& nums, int x) {
         int n=nums.size();
         int ans=n;
-        for(int i=0;i<n;i++){
-            if(nums[i]>=x){
-                ans=i;
-                break;
-            }
+        int s=0,e=n-1;
+        while(s<=e){
+            int m=s+(e-s)/2;
+            if(nums[m]>=x){
+                ans=m;
+                e=m-1;
+            }else s=m+1;
         }
         return ans;
     }
