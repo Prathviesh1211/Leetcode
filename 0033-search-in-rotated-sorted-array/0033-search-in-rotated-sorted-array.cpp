@@ -1,20 +1,20 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int target) {
+    int search(vector<int>& nums, int x) {
         int n=nums.size();
-        if(n==0)return -1;
         int s=0,e=n-1;
         while(s<=e){
             int m=s+(e-s)/2;
-            if(nums[m]==target)return m;
+            if(nums[m]==x)return m;
             else if(nums[s]<=nums[m]){
-                if(nums[s]<=target && target<nums[m])e=m-1;
+                if(nums[s]<=x && nums[m]>x)e=m-1;
                 else s=m+1;
             }else{
-                if(nums[e]>=target && target>nums[m])s=m+1;
+                if(nums[m]<x && nums[e]>=x)s=m+1;
                 else e=m-1;
             }
         }
         return -1;
+
     }
 };
