@@ -1,32 +1,31 @@
 class Solution {
 public:
+    bool valid(vector<int>& nums,int k,int lim){
+        long long sum=0;
+        int cnt=1;
+        for(int i:nums){
+            sum+=i;
+            if(sum>lim){
+                cnt++;
+                sum=i;
+            }
+        }
+        return cnt<=k;
+    }
     int splitArray(vector<int>& nums, int k) {
+        int n=nums.size();
         int s=*max_element(nums.begin(),nums.end());
-        int e=accumulate(nums.begin(),nums.end(),0);
-        int ans=e;
+        long long e=accumulate(nums.begin(),nums.end(),0);
+        int ans=-1;
         while(s<=e){
-            int mid=s+(e-s)/2;
-            if(valid(nums,mid,k)){
-                ans=mid;
-                e=mid-1;
+            int m=s+(e-s)/2;
+            if(valid(nums,k,m)){
+                ans=m;
+                e=m-1;
             }else{
-                s=mid+1;
+                s=m+1;
             }
         }
         return ans;
-    }
-    bool valid(vector<int>& arr,int cap,int k){
-        int cnt=1;
-        int curr=0;
-        for(int i=0;i<arr.size();i++){
-            if(arr[i]+curr>cap){
-                curr=arr[i];
-                cnt++;
-            }else{
-                curr+=arr[i];
-            }
-        }   
-        if(cnt<=k)return true;
-        return false;
     }
 };
