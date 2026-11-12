@@ -7,10 +7,10 @@ public:
         while(s<=e){
             int mid=s+(e-s)/2;
             int r=mid/m,c=mid%m;
-            if(mat[r][c]==k)return 1;
+            if(mat[r][c]==k)return true;
             else if(mat[r][c]>k)e=mid-1;
             else s=mid+1;
         }
-        return 0;
+        return false;
     }
 };
