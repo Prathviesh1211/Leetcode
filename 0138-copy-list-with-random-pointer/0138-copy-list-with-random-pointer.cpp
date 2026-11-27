@@ -17,7 +17,7 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if(!head)return nullptr;
+        if(!head)return NULL;
         Node* curr=head;
         while(curr){
             Node* copy=new Node(curr->val);
@@ -27,21 +27,21 @@ public:
         }
         curr=head;
         while(curr){
-            if(curr->random){
-                curr->next->random=curr->random->next;
-            }
-            curr=curr->next->next;
+           if(curr->random){
+            curr->next->random=curr->random->next;
+           }
+           curr=curr->next->next;
         }
         curr=head;
-        Node* dummy=new Node(-1);
-        Node* temp=dummy;
+        Node* newh=head->next;
         while(curr){
             Node* copy=curr->next;
-            temp->next=copy;
-            temp=copy;
             curr->next=copy->next;
+            if(copy->next){
+                copy->next=copy->next->next;
+            }
             curr=curr->next;
         }
-        return dummy->next;
+        return newh;
     }
 };
